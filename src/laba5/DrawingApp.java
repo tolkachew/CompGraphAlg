@@ -137,8 +137,7 @@ public class DrawingApp extends JFrame {
                         Rectangle.height = Math.abs(height);
                     }
                 } else if (mode == Mode.MOVE) {
-                    if (Rectangle != null && Rectangle.x <= e.getX() && e.getX() <= Rectangle.x + Rectangle.width
-                            && Rectangle.y <= e.getY() && e.getY() <= Rectangle.y + Rectangle.height) {
+                    if (Rectangle != null && Rectangle.x <= e.getX() && e.getX() <= Rectangle.x + Rectangle.width && Rectangle.y <= e.getY() && e.getY() <= Rectangle.y + Rectangle.height) {
                         Rectangle.x = e.getX() - Rectangle.width / 2;
                         Rectangle.y = e.getY() - Rectangle.height / 2;
                     }
