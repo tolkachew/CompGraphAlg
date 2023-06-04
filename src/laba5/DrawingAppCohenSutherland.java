@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class DrawingApp extends JFrame {
+public class DrawingAppCohenSutherland extends JFrame {
     private Rectangle Rectangle;
     private Line line;
     private JButton clipButton;
@@ -19,7 +19,7 @@ public class DrawingApp extends JFrame {
 
     private Mode mode;
 
-    public DrawingApp() {
+    public DrawingAppCohenSutherland() {
         Rectangle = null;
         line = new Line();
         mode = Mode.NONE;
@@ -265,7 +265,7 @@ public class DrawingApp extends JFrame {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
-                new DrawingApp().setVisible(true);
+                new DrawingAppWeilerAtherton().setVisible(true);
             }
         });
     }
