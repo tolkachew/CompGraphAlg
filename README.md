@@ -17,6 +17,7 @@
 ![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/Pic/image_2023-06-03_21-56-31%20(6).png)
 
 
+
 ### Лабораторная работа #4. Базовые растровые алгоритмы:
 - ## Отрисовка изображения, формируемое из отрезков и окружностей с помощью алгоритма Брезенхема
 ![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/Pic/image_2023-06-03_21-58-00.png)
@@ -25,11 +26,17 @@
 ![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/Pic/13.JPG)
 
 
+
 ### Лабораторная работа #5. Отсечение по полю видимости:
+- ## 5.1 Демонтрация функций метода Коэна-Сазерленда для отрезков:
+![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/Pic2/1.png) ![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/Pic2/2.png)
+![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/Pic2/3.png) ![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/Pic2/4.png) ![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/Pic2/5.png)
+
 
 
 ### Лабораторная работа #8. Создание векторных графических изображений
 ![alt text](https://github.com/tolkachew/CompGraphAlg/blob/master/src/laba8/%D0%A2%D0%BE%D0%BB%D0%BA%D0%B0%D1%87%D0%B5%D0%B2%2024%D0%B7_%D0%BA.jpg)
+
 
 
 ### Лабораторная работа #9. Создание растровых графических изображений
